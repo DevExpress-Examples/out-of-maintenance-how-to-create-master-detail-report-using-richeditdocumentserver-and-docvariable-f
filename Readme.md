@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataClasses.cs](./CS/MasterDetailExample/DataClasses.cs) (VB: [DataClasses.vb](./VB/MasterDetailExample/DataClasses.vb))
+* [DataHelper.cs](./CS/MasterDetailExample/DataHelper.cs) (VB: [DataHelper.vb](./VB/MasterDetailExample/DataHelper.vb))
+* [MainPage.xaml](./CS/MasterDetailExample/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/MasterDetailExample/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/MasterDetailExample/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/MasterDetailExample/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to create Master-Detail report using RichEditDocumentServer and DOCVARIABLE fields
 
 
