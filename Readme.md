@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/MasterDetailExample/MainPage.xaml) (VB: [MainPage.xaml](./VB/MasterDetailExample/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/MasterDetailExample/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/MasterDetailExample/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/MasterDetailExample/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/MasterDetailExample/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to create Master-Detail report using RichEditDocumentServer and DOCVARIABLE fields
 
